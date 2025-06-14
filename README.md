@@ -33,6 +33,7 @@ VK Teams Notifier Bot - это бот для платформы VK Teams, кот
 
 Методическое пособие: https://education.vk.company/curriculum/program/discipline/2484/
 
-## 🎓 Сертификат
+## 🎓 Сертификаты
 
-![Сертификат](certificate.jpg)
+![Сертификат бота](bot-certificate.jpg)
+![Сертификат практики](certificate.jpg)
